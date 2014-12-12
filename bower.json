@@ -6,6 +6,10 @@
         "Rubens Mariuzzo <rubens@mariuzzo.com>"
     ],
     "description": "Free set of line icons for the web based on Dripicons",
+    "main": [
+        "./css/dripicons.css",
+        "./fonts/**"
+    ],
     "keywords": [
         "dripicons",
         "icon",
