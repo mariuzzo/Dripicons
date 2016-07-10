@@ -1,4 +1,4 @@
 Dripicons
 =========
 
-Free set of line icons for the web base on Dripicons.
+Free set of line icons for the web, based on Dripicons.
